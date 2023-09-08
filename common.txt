@@ -9,7 +9,10 @@ function b () {
 
 
 
-function a (String master) {
+
+function a (int exp, String master) {
+
+
 
 
 
