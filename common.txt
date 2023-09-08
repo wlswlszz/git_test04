@@ -9,7 +9,7 @@ function b () {
 
 
 
-function a () {
+function a (String master) {
 
 
 
